@@ -1,0 +1,27 @@
+body head{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    color: #ffffff;
+    background-color: #293a5fd2;
+    align-content: center;
+    padding: 1rem 1rem;
+    margin: 0%;
+    width: 100%;
+}
+#pagina{
+    background: rgba(209, 202, 198, 0.87);
+}
+#info{
+    position: relative;
+}
+#contenido{
+    width: auto;
+    margin: 0 auto;
+    margin-top: 5rem;
+    align-content: flex-start;
+}
